@@ -1,4 +1,4 @@
-# leetcode
+# leetcode https://leetcode.com/arifcseru/
 Algorithms of different leetcode problems and simple solutions (if any)
 
 Problem Solved:
